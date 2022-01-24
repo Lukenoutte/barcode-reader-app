@@ -1,0 +1,7 @@
+{
+  "appId": "planos.codebar.reader.app",
+  "appName": "Planos Barcode Reader",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
