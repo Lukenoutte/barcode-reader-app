@@ -1,4 +1,4 @@
-# Planos Barcode Reader (planos-barcode-reader)
+# Barcode Reader (barcode-reader-app)
 
 A barcode reader
 
